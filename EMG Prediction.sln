@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMG Prediction", "EMG Prediction.csproj", "{A024B801-4C25-4F61-A9BC-23F7B5D785F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A024B801-4C25-4F61-A9BC-23F7B5D785F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A024B801-4C25-4F61-A9BC-23F7B5D785F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A024B801-4C25-4F61-A9BC-23F7B5D785F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A024B801-4C25-4F61-A9BC-23F7B5D785F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A05FB837-B1DB-435E-BBFF-6F5587818E0B}
+	EndGlobalSection
+EndGlobal
